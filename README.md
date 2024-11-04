@@ -78,8 +78,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 This project is [MIT](LICENSE) licensed.
 
 ## 👤 Author
-- GitHub: [@your-username]
-- LinkedIn: [Your Name]
+- GitHub: [@kamalshashwat]
+- LinkedIn: [Kamal Shashwat]
 
 ## 🌟 Acknowledgments
 - London Data Week organizers
